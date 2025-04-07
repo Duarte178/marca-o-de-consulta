@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "marca-o-de-consulta",
-    "slug": "marca-o-de-consulta",
+    "name": "marcacaoDeConsultasMedicas-ECB",
+    "slug": "marcacaoDeConsultasMedicas-ECB",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
